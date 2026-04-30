@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Playback Align"
+  short_description: "Align browser playback to local"
+  default_prompt: "Use $browser-playback-align to align a browser playback session with a local worker or runtime pipeline."
